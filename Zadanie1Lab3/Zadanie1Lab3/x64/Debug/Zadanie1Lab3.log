@@ -1,0 +1,3 @@
+﻿  Zadanie1Lab3.cpp
+C:\Users\themr\source\repos\Zadanie1Lab3\Zadanie1Lab3\Zadanie1Lab3.cpp(95,29): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Zadanie1Lab3.vcxproj -> C:\Users\themr\source\repos\Zadanie1Lab3\x64\Debug\Zadanie1Lab3.exe
