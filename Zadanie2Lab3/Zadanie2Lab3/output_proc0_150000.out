@@ -1,0 +1,6 @@
+Array size: 150000
+Number of processes: 1
+Sequential version:
+Time: 226.5556037 seconds
+Parallel version:
+Time: 226.5556037 seconds
